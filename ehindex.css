@@ -1,0 +1,144 @@
+body {
+    background-color: #d5b6b6;
+    padding-top:0px;
+    margin: 0;
+}
+
+li {
+    display: inline-block;
+    padding: 25px 17px;
+    margin-left: 12px;
+    margin-right: 12px;
+    text-align: center;
+    justify-content: space-between;
+    font-size: 18px;
+}
+
+.ehnavbarcontainer {
+    align-items: center;
+    padding: inherit;
+}
+
+.ehnavbar-list {
+    display: inline-block;
+    flex-direction: column;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    justify-content: space-between;
+    background-color: #f3eaea;
+    padding: 25px 17px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    height: 20%;
+    width: 100%; 
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+}
+
+.ehnavbar a {
+    text-decoration: none;
+    padding: inherit;
+}
+
+.ehnavbar a:hover {
+    color: red;
+}
+
+.ehnavbar ul {
+    display: inline-block;
+    list-style-type: none;
+    margin: 0;
+    width: 100px;
+    height: 400px;
+    background-color: #f3eaea;   
+    position: relative;
+    justify-content: space-between;
+}
+
+.p {
+    font-family:  'Lato', sans-serif;
+}
+
+.eh img {
+    width: 50%;
+    float: none;
+    margin: 25px;
+    position: relative;
+}
+
+.eh li {
+    text-decoration: none;
+    text-align: center;
+}
+
+/*Font from googlefonts*/
+/*Font downloaded off the internet from tiff file*/
+
+h1 {
+    font-size: 175%;
+    font-family: 'UpperWestSide', sans-serif;
+}
+
+h1 a {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 100%;
+    font-family: 'UpperWestSide', sans-serif;
+}
+
+/*This is the css code for the footer*/
+
+.ehfooter {
+    text-align: center;
+    margin-left: 0;
+    padding: 20px;
+}
+
+.ehfa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+
+/* Twitter */
+.ehfa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+/* Facebook */
+.ehfa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+/* Snapchat */
+.ehfa-snapchat-ghost {
+  background: #fffc00;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+/* Youtube */
+.ehfa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+/* Instagram */
+.ehfa-instagram {
+  background: #125688;
+    color: white;
+}
+
+
+
+
+
